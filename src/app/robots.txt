@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://icoinedweb3fashion.com/sitemap.xml
