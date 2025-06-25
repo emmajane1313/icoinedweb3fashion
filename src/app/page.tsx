@@ -14,13 +14,13 @@ export default function Home() {
         <source src="/videos/emmajanemackinnonlee.mp4" />
       </video>
       <div className="text-white relative w-fit items-center justify-center h-fit flex flex-col gap-1 text-center">
-        <div className="relative w-fit h-fit text-xs gal:text-sm md:text-2xl flex font-goth pb-2">
+        <div className="relative w-fit h-fit text-xs gal:text-sm md:text-xl flex font-goth pb-2">
           {" "}
           I Coined{" "}
         </div>
-        <div className="w-fit h-fit text-sm gal:text-lg md:text-4xl xl:text-6xl font-glitch flex rainbow break-words">
+        <div className="w-fit h-fit text-sm gal:text-lg md:text-xl font-glitch flex rainbow break-words">
           Web
-          <span className="font-goth text-xl gal:text-2xl md:text-6xl xl:text-8xl">
+          <span className="font-goth text-xl gal:text-2xl">
             3
           </span>{" "}
           Fashion
